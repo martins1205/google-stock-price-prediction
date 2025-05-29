@@ -41,6 +41,8 @@ The GRU model achieved the following performance metrics:
 
 ## Forecast
 The GRU model provides a 30-step forecast for future Google stock prices.
+![Screenshot 2025-05-29 195607](https://github.com/user-attachments/assets/c319fc85-e0f7-4b11-ad90-5f4da97b7e19)
+
 
 ## License
 This project is licensed under the MIT License.
